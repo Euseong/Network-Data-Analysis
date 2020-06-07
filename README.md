@@ -4,3 +4,4 @@
 
 ### Textbook
 Eric D. Kolaczyk. Statistical analysis of network data. Springer-Verlag New York, 2009.
+Eric D. Kolaczyk, Gábor Csárdi. Statistical Analysis of Network Data with R. Springer-Verlag New York, 2014.
